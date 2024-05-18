@@ -1,0 +1,1 @@
+Cloning is used to get a copy of the existing git repository. When you run the git clone command it makes the zip folder saved in your default location
